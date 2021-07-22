@@ -84,7 +84,7 @@ a{
 }
 
 .banner{
-	background-image: url('/img/pic.png');
+	background-image: url('img/pic.png');
 	background-repeat: no-repeat;
 	height: 660px;
 	display: flex;
@@ -274,7 +274,7 @@ span{
 }
 
 .member__photo1{
-	background-image: url('/img/pic-5.png');
+	background-image: url('img/pic-5.png');
 	background-repeat: no-repeat;
 	width: 263px;
 	height: 300px;
