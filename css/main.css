@@ -84,7 +84,7 @@ a{
 }
 
 .banner{
-	background-image: url('img/pic.png');
+	background-image: url('../img/pic.png');
 	background-repeat: no-repeat;
 	height: 660px;
 	display: flex;
@@ -274,7 +274,7 @@ span{
 }
 
 .member__photo1{
-	background-image: url('img/pic-5.png');
+	background-image: url('../img/pic-5.png');
 	background-repeat: no-repeat;
 	width: 263px;
 	height: 300px;
@@ -282,7 +282,7 @@ span{
 }
 
 .member__photo2{
-	background-image: url('/img/pic-4.png');
+	background-image: url('../img/pic-4.png');
 	background-repeat: no-repeat;
 	width: 263px;
 	height: 300px;
@@ -290,7 +290,7 @@ span{
 }
 
 .member__photo3{
-	background-image: url('/img/pic-3.png');
+	background-image: url('../img/pic-3.png');
 	background-repeat: no-repeat;
 	width: 263px;
 	height: 300px;
@@ -299,7 +299,7 @@ span{
 
 
 .member__photo4{
-	background-image: url('/img/pic-2.png');
+	background-image: url('../img/pic-2.png');
 	background-repeat: no-repeat;
 	width: 263px;
 	height: 300px;
@@ -342,7 +342,7 @@ span{
 }
 
 .work__image1{
-	background-image: url('/img/pic1.png');
+	background-image: url('../img/pic1.png');
 	background-repeat: no-repeat;
 	width: 360px;
 	height: 265px;
@@ -350,7 +350,7 @@ span{
 }
 
 .work__image2{
-	background-image: url('/img/pic-10.png');
+	background-image: url('../img/pic-10.png');
 	background-repeat: no-repeat;
 	width: 360px;
 	height: 265px;
@@ -358,7 +358,7 @@ span{
 }
 
 .work__image3{
-	background-image: url('/img/pic-9.png');
+	background-image: url('../img/pic-9.png');
 	background-repeat: no-repeat;
 	width: 360px;
 	height: 265px;
@@ -366,7 +366,7 @@ span{
 }
 
 .work__image4{
-	background-image: url('/img/pic-8.png');
+	background-image: url('../img/pic-8.png');
 	background-repeat: no-repeat;
 	width: 360px;
 	height: 265px;
@@ -374,7 +374,7 @@ span{
 }
 
 .work__image5{
-	background-image: url('/img/pic-7.png');
+	background-image: url('../img/pic-7.png');
 	background-repeat: no-repeat;
 	width: 360px;
 	height: 265px;
@@ -382,7 +382,7 @@ span{
 }
 
 .work__image7{
-	background-image: url('/img/pic-11.png');
+	background-image: url('../img/pic-11.png');
 	background-repeat: no-repeat;
 	width: 360px;
 	height: 265px;
@@ -390,7 +390,7 @@ span{
 }
 
 .work__image8{
-	background-image: url('/img/pic-12.png');
+	background-image: url('../img/pic-12.png');
 	background-repeat: no-repeat;
 	width: 360px;
 	height: 265px;
@@ -398,7 +398,7 @@ span{
 }
 
 .work__image9{
-	background-image: url('/img/pic-13.png');
+	background-image: url('../img/pic-13.png');
 	background-repeat: no-repeat;
 	width: 360px;
 	height: 265px;
@@ -410,7 +410,7 @@ span{
 }
 
 .work__image6{
-	background-image: url('/img/pic-6.png');
+	background-image: url('../img/pic-6.png');
 	background-repeat: no-repeat;
 	width: 360px;
 	height: 265px;
@@ -494,25 +494,25 @@ span{
 }
 
 .block1{
-	background-image: url('/img/cogs.png');
+	background-image: url('../img/cogs.png');
 	background-repeat: no-repeat;
 	background-position: center top;
 }
 
 .block2{
-	background-image: url('/img/pencil.png');
+	background-image: url('../img/pencil.png');
 	background-repeat: no-repeat;
 	background-position: center top;
 }
 
 .block3{
-	background-image: url('/img/mobile.png');
+	background-image: url('../img/mobile.png');
 	background-repeat: no-repeat;
 	background-position: center top;
 }
 
 .block4{
-	background-image: url('/img/clock.png');
+	background-image: url('../img/clock.png');
 	background-repeat: no-repeat;
 	background-position: center top;
 }
@@ -553,7 +553,7 @@ span{
 }
 
 .contact{
-	background-image: url('/img/pic-14.png');
+	background-image: url('../img/pic-14.png');
 	background-repeat: no-repeat;
 	background-position: center top 95px;
 	margin-bottom: 100px;
